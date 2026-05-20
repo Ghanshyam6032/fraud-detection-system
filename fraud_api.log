@@ -1,0 +1,24 @@
+2026-05-20 12:17:03,150 - INFO - Model and scaler loaded successfully
+2026-05-20 12:17:27,459 - INFO - Model and scaler loaded successfully
+2026-05-20 12:26:58,456 - INFO - Model and scaler loaded successfully
+2026-05-20 12:27:18,200 - INFO - Request ID: 84456e8b-9f8f-46f2-b028-ac153a36dec4
+2026-05-20 12:27:18,200 - INFO - User IP: 127.0.0.1
+2026-05-20 12:27:18,201 - INFO - Transaction Amount: 75000.0
+2026-05-20 12:27:18,201 - INFO - Merchant ID: 545
+2026-05-20 12:27:18,356 - INFO - Prediction Complete | Status: Normal Transaction | Score: 0.003683219420572925
+2026-05-20 12:27:22,970 - INFO - Health check successful
+2026-05-20 12:34:27,432 - INFO - Model and scaler loaded successfully
+2026-05-20 12:39:27,030 - INFO - Model and scaler loaded successfully
+2026-05-20 12:43:00,764 - INFO - Model and scaler loaded successfully
+2026-05-20 12:44:31,190 - INFO - Model and scaler loaded successfully
+2026-05-20 12:47:55,891 - INFO - Model and scaler loaded successfully
+2026-05-20 12:47:55,902 - INFO - Health check successful
+2026-05-20 12:48:27,129 - INFO - Health check successful
+2026-05-20 12:48:29,486 - INFO - Health check successful
+2026-05-20 12:48:57,183 - INFO - Request ID: 9177afce-d1f9-4d30-a89e-312c8dbd2a1f
+2026-05-20 12:48:57,183 - INFO - User IP: 127.0.0.1
+2026-05-20 12:48:57,183 - INFO - Transaction Amount: 18000.0
+2026-05-20 12:48:57,183 - INFO - Merchant ID: 650
+2026-05-20 12:48:57,279 - INFO - Prediction Complete | Status: Normal Transaction | Score: 0.009089806731633288
+2026-05-20 12:53:52,958 - INFO - Model and scaler loaded successfully
+2026-05-20 12:53:58,068 - INFO - Model and scaler loaded successfully
