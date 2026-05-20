@@ -20,16 +20,9 @@ st.set_page_config(
 # API Configuration
 # --------------------------------------------------
 
-API_URL = os.getenv(
-    "API_URL",
-    "http://127.0.0.1:8000/predict"
-)
-
-HEALTH_CHECK_URL = os.getenv(
-    "HEALTH_CHECK_URL",
-    "http://127.0.0.1:8000/health"
-)
-
+# API Configuration
+API_URL = "https://fraud-detection-system-1-zn3l.onrender.com/predict"
+HEALTH_CHECK_URL = "https://fraud-detection-system-1-zn3l.onrender.com/health"
 # --------------------------------------------------
 # Custom Styling
 # --------------------------------------------------
@@ -211,10 +204,10 @@ if predict_button:
             try:
 
                 response = requests.post(
-                    API_URL,
-                    json=payload,
-                    timeout=10
-                )
+                API_URL,
+                json=payload,
+                timeout=20)
+                          
 
                 response.raise_for_status()
 
